@@ -11,7 +11,7 @@ sections:
       - label: Try Free
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Testing
         url: /features
         style: secondary
     image: images/classic/hero.png
